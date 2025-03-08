@@ -8,7 +8,7 @@
   <u>My Social Links</u> 
 </h3>
 
-[![Linkedin: My Linked In Profile](https://img.shields.io/badge/-My_LinkedIn_Profile-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhaskar-babu-narasimha-548494a/)](https://www.linkedin.com/in/bhaskar-babu-narasimha-548494a/)
+[![Linkedin: My Linked In Profile](https://img.shields.io/badge/-My_LinkedIn_Profile-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhaskar-babu-narasimha-548494a/)](https://www.linkedin.com/in/bhaskar-babu-narasimha-548494a/) [![Linkedin: My Linked In Profile](https://img.shields.io/badge/-My_ArchitectTechTalks_Newsletter-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/newsletters/7133670871860219907/)](https://www.linkedin.com/newsletters/7133670871860219907/)
 
 ## About Me
 
