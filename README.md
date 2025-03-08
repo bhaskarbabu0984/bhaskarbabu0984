@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Bhaskar Babu </h1>
 
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=F70000&random=false&width=435&lines=Hello+World!%F0%9F%8C%8E;I'm+Bhaskar+Babu%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <h2 align="center"> Enterprise & Solutions Architect / Researcher / Tech-Evangelist </h2>
 
+<h3 align="center"> My Social Links </h2>
 
-
+[![Linkedin: My Linked In Profile](https://img.shields.io/badge/-deepaksood619-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepaksood619/)](https://www.linkedin.com/in/deepaksood619/)
 
 ## About Me
 
