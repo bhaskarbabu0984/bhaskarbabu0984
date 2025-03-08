@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Bhaskar Babu </h1>
 
 
-### Enterprise & Solutions Architect / Researcher / Tech-Evangelist
+<h1 align="center"> Enterprise & Solutions Architect / Researcher / Tech-Evangelist </h1>
+
 
 ## About Me
 
