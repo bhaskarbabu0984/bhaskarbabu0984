@@ -4,9 +4,11 @@
 
 <h2 align="center"> Enterprise & Solutions Architect / Researcher / Tech-Evangelist </h2>
 
-<h3 align="center"> My Social Links </h2>
+<h3 align="center"> 
+  <u>My Social Links</u> 
+</h3>
 
-[![Linkedin: My Linked In Profile](https://img.shields.io/badge/-deepaksood619-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepaksood619/)](https://www.linkedin.com/in/deepaksood619/)
+[![Linkedin: My Linked In Profile](https://img.shields.io/badge/-My_LinkedIn_Profile-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhaskar-babu-narasimha-548494a/)](https://www.linkedin.com/in/bhaskar-babu-narasimha-548494a/)
 
 ## About Me
 
