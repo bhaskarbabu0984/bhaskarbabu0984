@@ -46,6 +46,22 @@ I am a highly skilled and experienced engineer with 18+ years of experience with
 - CIO Management Playbook
 - Developing APIs with Google Cloud's Apigee API Platform
 
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=bhaskarbabu0984&theme=radical)
+
+##
+## 🎉 Today's Tech Joke
+
+![Joke Card](https://readme-jokes.vercel.app/api?theme=vue-dark)
+
+## 📈 Github Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhaskarbabu0984&show_icons=true&hide_border=true&theme=gotham" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskarbabu0984&hide_border=true&theme=gotham" />
+</p>
+
+📫 How to reach me **https://linkedin.com/in/bhaskar-babu-narasimha**
+
 <!--
 **bhaskarbabu0984/bhaskarbabu0984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
