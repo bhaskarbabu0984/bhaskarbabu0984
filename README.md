@@ -7,7 +7,7 @@
 
 I am a highly skilled and experienced engineer with 18+ years of experience with a strong background in Enterprise Architecture, Solution Architecture and a proven track record of scaling systems and increasing efficiency. As a seasoned Enterprise Architect (EA) and IT advisor, I thrive on collaborating with stakeholders to translate their business needs into actionable IT strategies. My extensive experience with Next-Generation Technologies allows me to leverage a broad knowledge base and guide organizations through successful digital transformations, AI & GenAI solutions, digital automation, cloud migrations, application rationalization and modernizations.
 
-## 
+
 
 ## My Social Links
 
@@ -16,7 +16,7 @@ I am a highly skilled and experienced engineer with 18+ years of experience with
 
 <!--[![Linkedin: My-Linked-In](https://img.shields.io/badge/-My_LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhaskar-babu-narasimha-548494a/)](https://www.linkedin.com/in/bhaskar-babu-narasimha-548494a/) [![Linkedin: Architect Tech talks Newsletter](https://img.shields.io/badge/-My_ArchitectTechTalks_Newsletter-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/newsletters/7133670871860219907/)](https://www.linkedin.com/newsletters/7133670871860219907/) [![Linkedin: AI Almanac Newsletter](https://img.shields.io/badge/-My_AI_Almanac_Newsletter-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/newsletters/7075963863237611520/)](https://www.linkedin.com/newsletters/7075963863237611520/) [![Linkedin: Youtube Channel](https://img.shields.io/badge/-Our_Youtube_Channel-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.youtube.com/@JustEnoughLearningOnline-jelo/videos)](https://www.youtube.com/@JustEnoughLearningOnline-jelo/videos) -->
 
-##
+
 
 ## Technologies and Tools
 - Programming Languages	- Python, Java, C#
@@ -38,7 +38,7 @@ I am a highly skilled and experienced engineer with 18+ years of experience with
 - Application Lifecycle Management (ALM) tools -	IBM Rational, HP ALM
 - EA repositories -	IBM system architect, Avolution Abacus 
 
-##
+
 
 ## 🏆 Achievements:
 
@@ -49,10 +49,11 @@ I am a highly skilled and experienced engineer with 18+ years of experience with
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=bhaskarbabu0984&theme=radical)
 
-##
+
 ## 🎉 Today's Tech Joke
 
 ![Joke Card](https://readme-jokes.vercel.app/api?theme=vue-dark)
+
 
 ## 📈 Github Stats
 <p align="center">
